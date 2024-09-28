@@ -1,0 +1,6 @@
+# SQLite
+db.sqlite3
+
+# coverage
+htmlcov/**
+.coverage
